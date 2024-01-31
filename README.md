@@ -55,7 +55,7 @@ IV. RESULTS AND DISCUSSION The deep learning approach exhibited promising outcom
 2. LSTM   ![image](https://github.com/prachipandey16/FLOATING-DEBRIS-DETECTION/assets/115707069/c71fd652-07fb-4ff2-8a23-2441b5e4b45d)
           ![image](https://github.com/prachipandey16/FLOATING-DEBRIS-DETECTION/assets/115707069/e97ad74c-e80e-413b-80f9-5aae6007b875)
 3. CNN-LSTM  ![image](https://github.com/prachipandey16/FLOATING-DEBRIS-DETECTION/assets/115707069/cbd31a73-5751-43a1-8d46-c08a9ba2e591)
-             ![Uploading image.png…]()
+             ![image](https://github.com/prachipandey16/FLOATING-DEBRIS-DETECTION/assets/115707069/62d6ac9e-a6bd-4104-aeae-c9b06cd81c5e)
 
 
 REFERENCES [1] G. Eason, B. Noble, and I. N. Sneddon, “On certain integrals of Lipschitz-Hankel type involving products of Bessel functions,” Phil. Trans. Roy. Soc. London, vol. A247, pp. 529–551, April 1955. (references) [2] J. Clerk Maxwell, A Treatise on Electricity and Magnetism, 3rd ed., vol. 2. Oxford: Clarendon, 1892, pp.68–73. [3] I. S. Jacobs and C. P. Bean, “Fine particles, thin films and exchange anisotropy,” in Magnetism, vol. III, G. T. Rado and H. Suhl, Eds. New York: Academic, 1963, pp. 271–350. [4] K. Elissa, “Title of paper if known,” unpublished. [5] R. Nicole, “Title of paper with only first word capitalized,” J. Name Stand. Abbrev., in press. [6] Y. Yorozu, M. Hirano, K. Oka, and Y. Tagawa, “Electron spectroscopy studies on magneto-optical media and plastic substrate interface,” IEEE Transl. J. Magn. Japan, vol. 2, pp. 740–741, August 1987 [Digests 9th Annual Conf. Magnetics Japan, p. 301, 1982]. [7] M. Young, The Technical Writer’s Handbook. Mill Valley, CA:University Science, 1989.
